@@ -1,0 +1,10 @@
+{
+	"test1":[
+		{"name" : "zs", "age" : 18},
+		{"name" : "ls", "age" : 17}
+	],
+	"test2":[
+		{"go" : "yes", "move" : "up"},
+		{"go" : "no", "move" : "down"}
+	]
+}

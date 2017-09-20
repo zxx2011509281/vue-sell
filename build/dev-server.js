@@ -21,7 +21,7 @@ var autoOpenBrowser = !!config.dev.autoOpenBrowser
 var proxyTable = config.dev.proxyTable
 
 var app = express()
-var routeData = require('../../test.json')
+var routeData = require('../test.json')
 var test1 = routeData.test1
 var test2 = routeData.test2
 var apiRoutes = express.Router()
